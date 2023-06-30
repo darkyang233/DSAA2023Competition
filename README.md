@@ -11,7 +11,9 @@
 # Model
 
 XGBoost
+
 Random Forest
+
 MLP
 
 # Datasets
@@ -29,5 +31,4 @@ After running Ensemble.ipynb ,you can get the finally prediction file:submission
 
 # Note
 
-If your graphics card performance is not good, please reduce the size of the batch_size.
-
+Please pay attention to adjusting the size of the batch_size.
